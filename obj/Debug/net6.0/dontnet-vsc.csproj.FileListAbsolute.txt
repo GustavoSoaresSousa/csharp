@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\bin\Debug\net6.0\dontnet-vsc.exe
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\bin\Debug\net6.0\dontnet-vsc.deps.json
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\bin\Debug\net6.0\dontnet-vsc.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\bin\Debug\net6.0\dontnet-vsc.dll
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\bin\Debug\net6.0\dontnet-vsc.pdb
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\obj\Debug\net6.0\dontnet-vsc.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\obj\Debug\net6.0\dontnet-vsc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\obj\Debug\net6.0\dontnet-vsc.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\obj\Debug\net6.0\dontnet-vsc.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\obj\Debug\net6.0\dontnet-vsc.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\obj\Debug\net6.0\dontnet-vsc.dll
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\obj\Debug\net6.0\refint\dontnet-vsc.dll
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\obj\Debug\net6.0\dontnet-vsc.pdb
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\obj\Debug\net6.0\dontnet-vsc.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\Programação\Estudos-Cursos-Videos\Csharp\dontnetvsc\obj\Debug\net6.0\ref\dontnet-vsc.dll
